@@ -15,10 +15,7 @@
 
 
 ### Glad to see you here!  
-Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
-
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective.  
-  
+My expertise lies in crafting dynamic, engaging interfaces through writing clean and optimized code and utilizing cutting-edge development tools and techniques. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support. I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. applications.
 
 <br/>  
 
