@@ -14,7 +14,7 @@
 
 
 ### Glad to see you here!  
-My expertise lies in crafting dynamic, engaging interfaces through writing clean and optimized code and utilizing cutting-edge development tools and techniques. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support. I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. applications.
+My expertise lies in transforming raw data into actionable insights through meticulous analysis and visualization. I specialize in building dynamic, data-driven dashboards and crafting robust analytical pipelines using modern tools and techniques. With a strong foundation in data manipulation, statistical modeling, and reporting, I ensure businesses can make informed, impactful decisions. I excel at designing efficient and scalable systems that process complex datasets, creating lightweight yet powerful solutions. My approach combines technical precision with a user-centric perspective, delivering analysis and applications that are both insightful and effective
 
 <br/>  
 
