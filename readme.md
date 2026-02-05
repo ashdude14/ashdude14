@@ -14,8 +14,7 @@
 
 
 ### Glad to see you here!  
-My expertise lies in transforming raw data into actionable insights through meticulous analysis and visualization. I specialize in building dynamic, data-driven dashboards and crafting robust analytical pipelines using modern tools and techniques. With a strong foundation in data manipulation, statistical modeling, and reporting, I ensure businesses can make informed, impactful decisions. I excel at designing efficient and scalable systems that process complex datasets, creating lightweight yet powerful solutions. My approach combines technical precision with a user-centric perspective, delivering analysis and applications that are both insightful and effective
-
+ 
 <br/>  
 
 
